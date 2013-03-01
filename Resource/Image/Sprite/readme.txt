@@ -1,0 +1,1 @@
+Guarda sprites para serem usados nos projetos
